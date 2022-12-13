@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArafatRahman6363
 - 👀 I’m interested in porgramming
-- 🌱 I’m currently learning phython
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
